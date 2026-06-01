@@ -1,0 +1,5 @@
+GUI r
+STRING https://youtu.be/48rz8udZBmQ
+ENTER
+DELAY 2000
+F11
